@@ -1,21 +1,18 @@
-# Olá, eu sou Jefferson Santos 👋
-## Desenvolvedor Python | Django | Linux
+Hello, I'm Jefferson Santos 👋
+Python Developer | Django | Linux
+Welcome to my GitHub profile! I'm a developer with solid skills in Python, Django, and Linux, passionate about building scalable web applications and ensuring their stability and security. I'm constantly learning and seeking new technologies to offer quality solutions to my clients.
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor com habilidades sólidas em Python, Django e Linux, apaixonado por construir aplicativos web escaláveis e garantir a estabilidade e a segurança dos mesmos. Estou constantemente aprendendo e buscando novas tecnologias para oferecer soluções de qualidade aos meus clientes.
-
-- 🔭 Atualmente, estou trabalhando em projetos de desenvolvimento web usando Django e python.
-- 🌱 Estou sempre aprendendo e me atualizando com as últimas tendências em desenvolvimento de software.
-- 💼 Estou disponível para oportunidades de trabalho freelance ou em tempo integral.
-
-## Habilidades e Tecnologias
-
-- Python
-- Django
-- Linux
-- HTML/CSS
-- Git
-- Banco de Dados (SQL e NoSQL)
-- Administração de Sistemas Linux
+🔭 Currently, I'm working on web development projects using Django and Python.
+🌱 I'm always learning and staying updated with the latest trends in software development.
+💼 I'm available for freelance or full-time job opportunities.
+Skills and Technologies
+Python
+Django
+Linux
+HTML/CSS
+Git
+Databases (SQL and NoSQL)
+Linux System Administration
 
 ## Como entrar em contato comigo
 
